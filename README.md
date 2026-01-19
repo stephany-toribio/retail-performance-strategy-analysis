@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Strategy-Decision%20Making-darkgreen?style=for-the-badge)
 
-## 💼 Escenario de Negocio (The Business Case)
+## 💼 Escenario de Negocio
 
 **El Desafío:** El propietario de una cadena de retail multi-rubro necesita optimizar sus activos. La empresa posee 4 tiendas físicas, pero por motivos estratégicos, **debe vender/cerrar una de ellas**.
 
@@ -71,5 +71,6 @@ Tras el análisis comparativo, se detectaron los siguientes patrones:
 ### 👤 Autor
 
 **Stephany Marilyn Toribio Alvarado**
-* *Data Analyst | Business Intelligence Focus*
+* *Data Scientist & Analyst*
+* Expertise: Business Intelligence | Machine Learning | Strategic Planning
 * [LinkedIn](https://www.linkedin.com/in/stephany-marilyn-toribio-alvarado-47080b303/) | [Portafolio](https://stephany-toribio.github.io/MWeb/)
